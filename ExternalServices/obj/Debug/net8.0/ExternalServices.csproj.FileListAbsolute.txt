@@ -1,0 +1,15 @@
+C:\allicunde\Test-MiguelTrombino\ExternalServices\bin\Debug\net8.0\ExternalServices.deps.json
+C:\allicunde\Test-MiguelTrombino\ExternalServices\bin\Debug\net8.0\ExternalServices.dll
+C:\allicunde\Test-MiguelTrombino\ExternalServices\bin\Debug\net8.0\ExternalServices.pdb
+C:\allicunde\Test-MiguelTrombino\ExternalServices\bin\Debug\net8.0\DTO.dll
+C:\allicunde\Test-MiguelTrombino\ExternalServices\bin\Debug\net8.0\DTO.pdb
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.csproj.AssemblyReference.cache
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.AssemblyInfoInputs.cache
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.AssemblyInfo.cs
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.csproj.CoreCompileInputs.cache
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\External.8D39DDA8.Up2Date
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.dll
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\refint\ExternalServices.dll
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ExternalServices.pdb
+C:\allicunde\Test-MiguelTrombino\ExternalServices\obj\Debug\net8.0\ref\ExternalServices.dll

@@ -1,0 +1,14 @@
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\bin\Debug\net8.0\Test-MiguelTrombino.exe
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\bin\Debug\net8.0\Test-MiguelTrombino.deps.json
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\bin\Debug\net8.0\Test-MiguelTrombino.runtimeconfig.json
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\bin\Debug\net8.0\Test-MiguelTrombino.dll
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\bin\Debug\net8.0\Test-MiguelTrombino.pdb
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.GeneratedMSBuildEditorConfig.editorconfig
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.AssemblyInfoInputs.cache
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.AssemblyInfo.cs
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.csproj.CoreCompileInputs.cache
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.dll
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\refint\Test-MiguelTrombino.dll
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.pdb
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\Test-MiguelTrombino.genruntimeconfig.cache
+C:\allicunde\Test-MiguelTrombino\Test-MiguelTrombino\obj\Debug\net8.0\ref\Test-MiguelTrombino.dll

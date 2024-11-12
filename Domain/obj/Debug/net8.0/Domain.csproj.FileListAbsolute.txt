@@ -1,0 +1,17 @@
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\Domain.dll
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\Domain.pdb
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\DTO.dll
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\ExternalServices.dll
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\DTO.pdb
+C:\allicunde\Test-MiguelTrombino\Domain\bin\Debug\net8.0\ExternalServices.pdb
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.dll
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\Domain.pdb
+C:\allicunde\Test-MiguelTrombino\Domain\obj\Debug\net8.0\ref\Domain.dll

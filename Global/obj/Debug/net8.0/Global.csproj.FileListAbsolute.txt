@@ -1,0 +1,11 @@
+C:\allicunde\Test-MiguelTrombino\Global\bin\Debug\net8.0\Global.deps.json
+C:\allicunde\Test-MiguelTrombino\Global\bin\Debug\net8.0\Global.dll
+C:\allicunde\Test-MiguelTrombino\Global\bin\Debug\net8.0\Global.pdb
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.AssemblyInfoInputs.cache
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.AssemblyInfo.cs
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.csproj.CoreCompileInputs.cache
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.dll
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\refint\Global.dll
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\Global.pdb
+C:\allicunde\Test-MiguelTrombino\Global\obj\Debug\net8.0\ref\Global.dll
